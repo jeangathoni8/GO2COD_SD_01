@@ -2,8 +2,6 @@
 
 A modern, intuitive contact management application built with React and TypeScript. This application provides a beautiful user interface for managing your contacts with powerful features like real-time search, complete CRUD operations, and a responsive design that works seamlessly across all devices.
 
-![Save Me Screenshot](https://paste.pics/00f63f481f368ae26bdc4498c62519a7)
-
 ## ✨ Features
 
 ### Core Functionality
